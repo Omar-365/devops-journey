@@ -2,7 +2,7 @@
 
 # 🚀 My DevOps Journey
 
-This repository documents my learning and practice projects while completing a **260-hour DevOps diploma**.  
+This repository documents my learning and practice projects while completing a **320-hour DevOps diploma**.  
 Each folder contains notes, scripts, and mini-projects related to the tools and concepts I learn.
 
 ---
